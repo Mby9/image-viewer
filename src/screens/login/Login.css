@@ -1,0 +1,17 @@
+
+.card-style {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.display-none {
+    display: none;
+}
+
+.display-block {
+    display: block;
+}
+.color-red {
+    color:red;
+}
